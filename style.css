@@ -1,0 +1,18 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+#gameDiv{
+    font-family: 'Chalkduster',cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+}
+#playerText{
+    color: lightsalmon;
+}
+#computerText{
+    color:  lightgoldenrodyellow;
+}
